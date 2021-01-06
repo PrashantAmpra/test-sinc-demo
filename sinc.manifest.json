@@ -1,0 +1,42 @@
+{
+  "tables": {
+    "sys_script_include": {
+      "records": {
+        "TestTwo": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestTwo",
+          "sys_id": "1293fced1be96010065b7596cc4bcb4b"
+        },
+        "TestOne": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestOne",
+          "sys_id": "3d3370211b2d6010065b7596cc4bcb58"
+        },
+        "TestThree": {
+          "files": [
+            {
+              "name": "script",
+              "type": "js"
+            }
+          ],
+          "name": "TestThree",
+          "sys_id": "8c6878611b2d6010065b7596cc4bcb0c"
+        }
+      }
+    },
+    "sys_atf_step": {
+      "records": {}
+    }
+  },
+  "scope": "x_567513_demo_app"
+}
